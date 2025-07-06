@@ -41,14 +41,14 @@ Users can:
 
 ---
 
-🧩Clone the Repository
+###🧩Clone the Repository
 
 ```bash
 git clone https://github.com/your-username/expense-tracker.git
 cd expense-tracker
-
-⚙️ 2. Backend Setup
-cd backend
+```
+###⚙️ 2. Backend Setup
+```cd backend
 npm install
 
 ✅ Create a .env file in backend/ and add:
@@ -58,14 +58,15 @@ PORT=5000
 
 Then start the backend server:
 node server.js
-
-💻 3. Frontend Setup
-Open a new terminal tab:
+```
+###💻 3. Frontend Setup
+```Open a new terminal tab:
 cd frontend
 npm install
 npm run dev
+```
 
-🙋‍♂️ Author
+###🙋‍♂️ Author
 Rahul Singh Bisht
 📧 rahul.singh@nestorbird.com
 
